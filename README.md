@@ -9,6 +9,6 @@ insights on the data
 • Interactive data analysis – Plotly Dashboard and Folium maps to visualize launch site data.
 • Machine Learning – using classification models to predict the landing success of the first stage boosters.
 
-# all of the code is available in the Jupyter notebooks.
-# there is a python script for the interactive dashboard.
-# the presentation slides for the project is also included.
+## all of the code is available in the Jupyter notebooks.
+## there is a python script for the interactive dashboard.
+## the presentation slides for the project is also included.
